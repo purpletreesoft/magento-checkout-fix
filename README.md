@@ -1,4 +1,5 @@
-# magento-checkout-fix
+# Introduction
+
 Fixes "Checkout out as a new customer" and "Checkout out using your account" for Magento 2.
 
 For popup login in Magento 2, this extension replaces strings "Checkout out as a new customer" and "Checkout out using your account" with "Checkout as a new customer" and "Checkout using your account" respectively.
