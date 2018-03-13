@@ -7,7 +7,7 @@ This is such a small issues that it should have been fixed in magento long ago, 
 
 # Installation
 
-1. Download the zip file and extract in app/code directory.
+1. Download the source code as a zip file and extract it in app/code directory.
 
 2. Run follwowing command from installation root directory on shell:
 
