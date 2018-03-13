@@ -12,3 +12,5 @@ This is such a small issues that it should have been fixed in magento long ago, 
 2. Run follwowing command from installation root directory on shell:
 
 bin/magento setup:upgrade 
+
+Ref: https://www.purpletreesoftware.com/blog/magento/magento-2-fix-for-language-issue-checkout-out-as-a-new-customer-and-checkout-out-using-your-account/
