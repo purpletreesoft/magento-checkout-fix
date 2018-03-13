@@ -10,7 +10,7 @@ This is such a small issues that it should have been fixed in magento long ago, 
 
 1. Download the source code as a zip file and extract it in app/code directory.
 
-2. Run follwowing command from installation root directory on shell:
+2. Run following command from installation root directory on shell:
 
 bin/magento setup:upgrade 
 
